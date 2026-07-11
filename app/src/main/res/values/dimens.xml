@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="geofence_horizontal_padding">20dp</dimen>
+    <dimen name="geofence_top_padding">20dp</dimen>
+    <dimen name="geofence_map_top_margin">10dp</dimen>
+    <dimen name="geofence_map_side_margin">12dp</dimen>
+    <dimen name="geofence_bottom_dock_margin">12dp</dimen>
+    <dimen name="geofence_bottom_panel_bottom_padding">28dp</dimen>
+    <dimen name="geofence_panel_corner_radius">16dp</dimen>
+</resources>

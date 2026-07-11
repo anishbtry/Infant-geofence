@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_timeline.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_timeline.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_toggle_group.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_toggle_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_compass_rose.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_compass_rose.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_fence_inside.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_fence_inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\color_selector_mode_bg.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\color\\selector_mode_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_fence_outside.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_fence_outside.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_satellite.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_satellite.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_child_care.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_child_care.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_undo.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_undo.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_my_location.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_my_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_call_btn_green.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_call_btn_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_home_header_logo.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\home_header_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_fence_unknown.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_fence_unknown.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_circle_pulse_outer.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\circle_pulse_outer.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_dialog_save_zone.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\dialog_save_zone.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_circle_red_dot.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\circle_red_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_child_marker.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_child_marker.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_bottom_panel.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_bottom_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_unread_dot.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_unread_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_item_alert.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_location_on.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_location_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_child_marker_offline.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_child_marker_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_circle_pulse_inner.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\circle_pulse_inner.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_delete_forever.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_delete_forever.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_fence.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_fence.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_point_start.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_point_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_pill_sheet_handle.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\pill_sheet_handle.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_default_avatar.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_default_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\menu_menu_geofence_overflow.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\menu\\menu_geofence_overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_fragment_alerts.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\color_nav_icon_color.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\color\\nav_icon_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_call_end.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_call_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\color_selector_mode_text.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\color\\selector_mode_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_circle_yellow_dot.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\circle_yellow_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_battery_alert.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_battery_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_location_searching.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_location_searching.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_delete_outline.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_delete_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_speed.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_tiny_halo_logo.png.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\tiny_halo_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\color_geofence_save_fab_background.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\color\\geofence_save_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_sos.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_sos.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_fragment_geofence.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_geofence.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_bg_call_btn_red.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\bg_call_btn_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_map.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_access_time.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_access_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_activity_call.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\activity_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_point.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.infantgeofence.app-debug-60:/layout_fragment_geofence.xml.flat",
+        "source": "com.infantgeofence.app-main-62:/layout/fragment_geofence.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-debug-60:\\drawable_ic_pan_tool.xml.flat",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\drawable\\ic_pan_tool.xml"
+    }
+]

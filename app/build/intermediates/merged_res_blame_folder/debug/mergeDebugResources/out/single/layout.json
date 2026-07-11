@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\dialog_save_zone.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\dialog_save_zone.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.infantgeofence.app-mergeDebugResources-59:/layout/fragment_geofence.xml",
+        "source": "com.infantgeofence.app-main-62:/layout/fragment_geofence.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\fragment_alerts.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_alerts.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\item_alert.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\fragment_geofence.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\fragment_geofence.xml"
+    },
+    {
+        "merged": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-mergeDebugResources-59:\\layout\\activity_call.xml",
+        "source": "C:\\Users\\anish\\.gradle\\daemon\\8.7\\com.infantgeofence.app-main-62:\\layout\\activity_call.xml"
+    }
+]

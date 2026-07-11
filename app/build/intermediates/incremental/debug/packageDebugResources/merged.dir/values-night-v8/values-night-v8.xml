@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="geofence_delete_bg">#3A2323</color>
+    <color name="geofence_delete_text">#FF8B84</color>
+    <color name="geofence_divider">#E0E0E4</color>
+    <color name="geofence_drag_handle">#D0D0D4</color>
+    <color name="geofence_load_bg">#1F2D42</color>
+    <color name="geofence_load_text">#80B8FF</color>
+    <color name="geofence_mode_bg_selected">#57BFC9</color>
+    <color name="geofence_mode_bg_unselected">#E8EAEF</color>
+    <color name="geofence_mode_text_selected">#FFFFFF</color>
+    <color name="geofence_mode_text_unselected">#5F6675</color>
+    <color name="geofence_save_disabled">#4D4D4D</color>
+    <color name="geofence_screen_bg">#102C30</color>
+    <color name="geofence_strip_bg">#2C555B</color>
+    <color name="geofence_strip_text">#D7F3F6</color>
+    <color name="geofence_subtitle">#B3B3B3</color>
+    <color name="geofence_surface">#F5F5F7</color>
+    <color name="geofence_title">#FFFFFF</color>
+    <color name="geofence_toolbar_bg">#102C30</color>
+</resources>

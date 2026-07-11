@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Infant GeoFence</string>
+    <string name="content_desc_home_logo">App logo</string>
+    <string name="geofence_undo_desc">Undo last point</string>
+    <string name="geofence_clear_desc">Clear draft points</string>
+    <string name="geofence_more_desc">Zone options</string>
+    <string name="geofence_save_zone">Save zone</string>
+    <string name="geofence_saving">Saving…</string>
+    <string name="geofence_menu_load">Load saved zone</string>
+    <string name="geofence_menu_delete">Delete zone</string>
+    <string name="geofence_header_hint">Pan to move the map • Draw to add corners</string>
+    <string name="geofence_header_draw">Draw: tap the map for each corner</string>
+    <string name="geofence_header_pan">Pan: drag to move • pinch to zoom</string>
+    <string name="geofence_badge_live">Active</string>
+    <string name="geofence_mode_draw">Draw</string>
+    <string name="geofence_mode_pan">Pan</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_map">Live Map</string>
+    <string name="nav_geofence">Geofence</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="osm_attribution">© OpenStreetMap contributors</string>
+</resources>

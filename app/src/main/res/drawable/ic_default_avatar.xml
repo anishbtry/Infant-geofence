@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Circle background -->
+    <path
+        android:fillColor="#D8F1F3"
+        android:pathData="M50,50m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0" />
+
+    <!-- Body (rounded shoulders) -->
+    <path
+        android:fillColor="#57BFC9"
+        android:pathData="M10,95 C10,62 90,62 90,95 Z" />
+
+    <!-- Head -->
+    <path
+        android:fillColor="#57BFC9"
+        android:pathData="M50,18m-18,0a18,18 0,1 1,36 0a18,18 0,1 1,-36 0" />
+
+    <!-- Neck cutout (tiny arc just between head bottom and body top) -->
+    <path
+        android:fillColor="#D8F1F3"
+        android:pathData="M38,58 Q50,52 62,58 Q50,64 38,58 Z" />
+
+</vector>

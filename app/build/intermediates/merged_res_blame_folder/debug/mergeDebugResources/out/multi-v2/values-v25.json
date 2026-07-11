@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.infantgeofence.app-mergeDebugResources-58:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\anish\\.gradle\\caches\\transforms-4\\af08c7d062cd932b484bc78ec32ac2c9\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

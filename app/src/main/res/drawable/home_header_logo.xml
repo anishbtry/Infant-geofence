@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Dashboard header logo. Replace this file by adding your raster logo as:
+    app/src/main/res/drawable-nodpi/home_header_logo.png
+  (same base name home_header_logo) and delete this XML so only one drawable remains.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="40dp"
+    android:viewportWidth="160"
+    android:viewportHeight="40">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,11h12v18h-12z" />
+    <path
+        android:fillColor="#CCFFFFFF"
+        android:pathData="M26,22h118v4h-118zM26,14h92v4h-92z" />
+</vector>
